@@ -112,13 +112,13 @@
     <url>/2020/11/27/%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%98%85%E8%AF%BB%E8%AE%BA%E6%96%87-%E5%90%B4%E6%81%A9%E8%BE%BE/</url>
     <content><![CDATA[<p>本文是吴恩达在<a href="https://www.youtube.com/watch?v=733m6qBH-jI">Stanford CS230</a>中讲解如何阅读论文的一些方法。他强调主要两个点:</p>
 <ul>
-<li>Reading research papers *: efficient techniques ,that he uses, to read research papers when trying to master a new topic in deep learning.</li>
-<li>Advice for navigating a career in machine learning.*</li>
+<li>Reading research papers : efficient techniques ,that he uses, to read research papers when trying to master a new topic in deep learning.</li>
+<li>Advice for navigating a career in machine learning.</li>
 </ul>
 <a id="more"></a>
 
 
-<h3 id="主题阅读论文方法整体流程"><a href="#主题阅读论文方法整体流程" class="headerlink" title="主题阅读论文方法整体流程"></a>主题阅读论文方法整体流程</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">第一步：收集并整合相关资源。</span><br><span class="line">	资源可以是研究论文、媒体文章、博客文章、视频、GitHub知识库等形式,在谷歌上搜索“pose estimate”，你会得到与主题相关的顶级资源。这一步的目标是整理所有相关的资源,在这个阶段，对资源数量没有限制，但一定要创建一个名单列表，用于记录有用的论文、视频和文章</span><br><span class="line"></span><br><span class="line">第二步：深入研究你认为与主题相关的任何资源。</span><br><span class="line">	在这一步中，记录并跟踪对每个资源的理解程度是至关重要的。Andrew Ng建议根据对资源的理解程度绘制一个资源表格，表中包含了资源链接和难易度(10-20%, 20-40%,40-60%,,60-80%,80-100%),确保每篇论文都是10-20%的理解。你可能问：&quot;多少论文&#x2F;资源算足够呢&quot;.Andrew Ng的说法，理解了5-20篇论文的内容，那么你对该领域的研究就有了基本的理解，对该领域的相关技术也会有足够的理解,50-100篇论文会让你对这个领域有一个更深入的理解</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">第三步：做笔记，对该领域理解的升华。</span><br><span class="line">	The third step is to take structured notes that summarises the key discoveries, findings and techniques within a paper, in your own words</span><br></pre></td></tr></table></figure>
+<h3 id="主题阅读论文方法整体流程"><a href="#主题阅读论文方法整体流程" class="headerlink" title="主题阅读论文方法整体流程"></a>主题阅读论文方法整体流程</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">第一步：收集并整合相关资源。</span><br><span class="line">	资源可以是研究论文、媒体文章、博客文章、视频、GitHub知识库等形式,在谷歌上搜索“pose estimate”，你会得到与主题相关的顶级资源。这一步的目标是整理所有相关的资源,在这个阶段，对资源数量没有限制，但一定要创建一个名单列表，用于记录有用的论文、视频和文章</span><br><span class="line"></span><br><span class="line">第二步：深入研究你认为与主题相关的任何资源。</span><br><span class="line">	在这一步中，记录并跟踪对每个资源的理解程度是至关重要的。</span><br><span class="line">	Andrew Ng建议根据对资源的理解程度绘制一个资源表格，表中包含了资源链接和难易度(10-20%, 20-40%,40-60%,,60-80%,80-100%),确保每篇论文都是10-20%的理解。</span><br><span class="line">	你可能问：&quot;多少论文&#x2F;资源算足够呢&quot;.Andrew Ng的说法，理解了5-20篇论文的内容，那么你对该领域的研究就有了基本的理解，对该领域的相关技术也会有足够的理解,50-100篇论文会让你对这个领域有一个更深入的理解</span><br><span class="line"></span><br><span class="line">第三步：做笔记，对该领域理解的升华。</span><br><span class="line">	The third step is to take structured notes that summarises the key discoveries, findings and techniques within a paper, in your own words</span><br></pre></td></tr></table></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<h3 id="通过问自己问题来检测对论文的理解程度"><a href="#通过问自己问题来检测对论文的理解程度" class="headerlink" title="通过问自己问题来检测对论文的理解程度"></a>通过问自己问题来检测对论文的理解程度</h3><pre><code>Andrew Ng提供了一组在阅读论文时应该问自己的问题。这些问题通常会表明你理解论文中提出的关键信息。我使用下面的问题作为指引，以确保不会偏离理解重要信息的目标</code></pre>
+<h3 id="通过问自己问题来检测对论文的理解程度"><a href="#通过问自己问题来检测对论文的理解程度" class="headerlink" title="通过问自己问题来检测对论文的理解程度"></a>通过问自己问题来检测对论文的理解程度</h3><p>Andrew Ng提供了一组在阅读论文时应该问自己的问题。这些问题通常会表明你理解论文中提出的关键信息。我使用下面的问题作为指引，以确保不会偏离理解重要信息的目标</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1、论文的作者想要完成什么，或者已经完成了什么？</span><br><span class="line">2、如果一篇论文介绍了一种新方法&#x2F;技术&#x2F;方法，那么该新方法的关键要素是什么?</span><br><span class="line">3、论文中哪些内容对你有用?</span><br><span class="line">4、你还想关注哪些参考文献?</span><br></pre></td></tr></table></figure>
 
 
