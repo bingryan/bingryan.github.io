@@ -107,4 +107,39 @@
         <tag>读书笔记</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何有效阅读论文-吴恩达</title>
+    <url>/2020/11/27/%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%98%85%E8%AF%BB%E8%AE%BA%E6%96%87-%E5%90%B4%E6%81%A9%E8%BE%BE/</url>
+    <content><![CDATA[<p>本文是吴恩达在<a href="https://www.youtube.com/watch?v=733m6qBH-jI">Stanford CS230</a>中讲解如何阅读论文的一些方法。他强调主要两个点:</p>
+<ul>
+<li>Reading research papers *: efficient techniques ,that he uses, to read research papers when trying to master a new topic in deep learning.</li>
+<li>Advice for navigating a career in machine learning.*</li>
+</ul>
+<a id="more"></a>
+
+
+<h3 id="主题阅读论文方法整体流程"><a href="#主题阅读论文方法整体流程" class="headerlink" title="主题阅读论文方法整体流程"></a>主题阅读论文方法整体流程</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">第一步：收集并整合相关资源。</span><br><span class="line">	资源可以是研究论文、媒体文章、博客文章、视频、GitHub知识库等形式,在谷歌上搜索“pose estimate”，你会得到与主题相关的顶级资源。这一步的目标是整理所有相关的资源,在这个阶段，对资源数量没有限制，但一定要创建一个名单列表，用于记录有用的论文、视频和文章</span><br><span class="line"></span><br><span class="line">第二步：深入研究你认为与主题相关的任何资源。</span><br><span class="line">	在这一步中，记录并跟踪对每个资源的理解程度是至关重要的。Andrew Ng建议根据对资源的理解程度绘制一个资源表格，表中包含了资源链接和难易度(10-20%, 20-40%,40-60%,,60-80%,80-100%),确保每篇论文都是10-20%的理解。你可能问：&quot;多少论文&#x2F;资源算足够呢&quot;.Andrew Ng的说法，理解了5-20篇论文的内容，那么你对该领域的研究就有了基本的理解，对该领域的相关技术也会有足够的理解,50-100篇论文会让你对这个领域有一个更深入的理解</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">第三步：做笔记，对该领域理解的升华。</span><br><span class="line">	The third step is to take structured notes that summarises the key discoveries, findings and techniques within a paper, in your own words</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="详细阐述如何阅读一篇论文"><a href="#详细阐述如何阅读一篇论文" class="headerlink" title="详细阐述如何阅读一篇论文"></a>详细阐述如何阅读一篇论文</h3><p>reading a paper from the first word to the last word in one sitting might not be the best way to form an understanding.Be prepared to go through a paper at least three times to have a good understanding of its content(一口气的从第一个词读到最后一个词可能不是最好的方式, 一篇论文至少要读三遍)</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">第一遍: 阅读标题、摘要、文中图表</span><br><span class="line">第二遍：阅读引言、结论，掌握关键信息；并结合图表快速扫描文章其余的内容</span><br><span class="line">第三遍：对论文进行整体阅读，但要跳过任何对你来说可能陌生的复杂的数学或技术公式。在此过程中，还可以跳过不理解或不熟悉的任何术语和术语</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="通过问自己问题来检测对论文的理解程度"><a href="#通过问自己问题来检测对论文的理解程度" class="headerlink" title="通过问自己问题来检测对论文的理解程度"></a>通过问自己问题来检测对论文的理解程度</h3><pre><code>Andrew Ng提供了一组在阅读论文时应该问自己的问题。这些问题通常会表明你理解论文中提出的关键信息。我使用下面的问题作为指引，以确保不会偏离理解重要信息的目标</code></pre>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1、论文的作者想要完成什么，或者已经完成了什么？</span><br><span class="line">2、如果一篇论文介绍了一种新方法&#x2F;技术&#x2F;方法，那么该新方法的关键要素是什么?</span><br><span class="line">3、论文中哪些内容对你有用?</span><br><span class="line">4、你还想关注哪些参考文献?</span><br></pre></td></tr></table></figure>
+
+
+
+<p>最后吴恩达强调：”Learn steadily rather than short burst for longevity”</p>
+<h3 id="参考："><a href="#参考：" class="headerlink" title="参考："></a>参考：</h3><p><a href="https://www.youtube.com/watch?v=733m6qBH-jI">Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers</a></p>
+]]></content>
+      <categories>
+        <category>方法</category>
+      </categories>
+      <tags>
+        <tag>方法</tag>
+      </tags>
+  </entry>
 </search>
